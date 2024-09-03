@@ -1,1 +1,1 @@
-
+This is the first version of a program created to make forensic sketches (photorobots) more recognisable. I coded this in winter 23/24 and used neural style transfer with a pre-trained vgg-19 model. 
